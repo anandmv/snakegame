@@ -1,5 +1,7 @@
 # Snake Game — React + TypeScript + Vite
 
+Live demo: <https://anandmv.github.io/snakegame/>
+
 A small Snake game built with React, TypeScript and Vite. This repository contains the source for a minimal playable game and a tiny demo app.
 
 ## Features
